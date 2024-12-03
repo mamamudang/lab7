@@ -6,6 +6,6 @@ int main() {
     double c = 4, 
 
     r = a - b/c;
-    std::cout << "output:" << r <<" \n";
+    std::cout << "output: " << r <<" \n";
     return 0;
 }
